@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am a game and tools programmer since 2008!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can check my full resume on LinkedIn.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nyoshi@gmail.com](mailto:nyoshi@gmail.com)
